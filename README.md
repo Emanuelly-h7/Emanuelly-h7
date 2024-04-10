@@ -6,10 +6,10 @@
 Sou uma estudante do ensino médio que está cursando Tecnologia da Informção.
 
 Áreas de interesse:
--Banco de Dados SQL Server
--Arquitetura de sites
--Design Gráfico
--Programação em css
+-Banco de Dados SQL Server<br>
+-Arquitetura de sites<br>
+-Design Gráfico<br>
+-Programação em css<br>
 
 Contato:
  Email: emanuellylinodelale@gmail.com
