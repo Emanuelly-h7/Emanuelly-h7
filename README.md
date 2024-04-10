@@ -5,7 +5,7 @@
 -->
 Sou uma estudante do ensino médio que está cursando Tecnologia da Informção.
 
-Áreas de interesse:
+Áreas de interesse:<br>
 -Banco de Dados SQL Server<br>
 -Arquitetura de sites<br>
 -Design Gráfico<br>
